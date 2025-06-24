@@ -1,6 +1,6 @@
-Imagine que você está criando um sistema de recomendação para uma plataforma de filmes. Cada filme tem um título e uma classificação indicativa. Para garantir que as pessoas vejam apenas conteúdos apropriados para sua idade, o sistema deve verificar se a pessoa pode assistir ao filme com base na idade informada.
+Criei um sistema de recomendação para uma plataforma de filmes. Cada filme tem um título e uma classificação indicativa. Para garantir que as pessoas vejam apenas conteúdos apropriados para sua idade, o sistema deve verificar se a pessoa pode assistir ao filme com base na idade informada.
 
-Crie uma classe chamada Filme que tenha:
+Criei uma classe chamada Filme que tenha:
 
 Propriedades públicas Titulo e ClassificacaoEtaria (int).
 Um método chamado PodeAssistir(int idadeUsuario) que retorna true se a idade for maior ou igual à classificação etária, e false caso contrário.
